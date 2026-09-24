@@ -1,14 +1,13 @@
-// This is jenkins file 
-
 pipeline {
-    agent any 
+    agent any
 
     stages {
-        
+
         stage('Environment') {
             steps {
                 sh 'node --version'
                 sh 'npm --version'
+                sh 'aws --version'
             }
         }
 
@@ -18,15 +17,21 @@ pipeline {
             }
         }
 
-        stage("Install Dependencies") {
+        stage('Install Dependencies') {
             steps {
                 sh 'npm ci'
             }
         }
 
-        stage("Build") {
+        stage('Build') {
             steps {
                 sh 'npm run build'
+            }
+        }
+
+        stage('Deploy to S3') {
+            steps {
+                sh 'aws s3 sync dist/ s3://labelguardai.sachinkolekar.dev/'
             }
         }
     }
