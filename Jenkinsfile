@@ -5,9 +5,10 @@ pipeline {
 
     stages {
         
-        stage("Checkout") {
+        stage('Environment') {
             steps {
-                checkout scm
+                sh 'node --version'
+                sh 'npm --version'
             }
         }
 
