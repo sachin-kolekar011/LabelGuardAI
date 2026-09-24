@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <!-- Background -->
+  <rect width="400" height="560" fill="#FFF8E7" rx="8"/>
+  <!-- Top brand stripe -->
+  <rect width="400" height="90" fill="#E31E24" rx="8"/>
+  <rect y="80" width="400" height="10" fill="#E31E24"/>
+
+  <!-- AMUL text -->
+  <text x="200" y="52" font-family="Arial Black,Arial" font-weight="900" font-size="42" fill="white" text-anchor="middle" letter-spacing="6">AMUL</text>
+  <text x="200" y="76" font-family="Arial,sans-serif" font-size="13" fill="#FFD700" text-anchor="middle" letter-spacing="2">THE TASTE OF INDIA</text>
+
+  <!-- Gold divider -->
+  <rect y="90" width="400" height="4" fill="#FFD700"/>
+
+  <!-- Product name band -->
+  <rect y="94" width="400" height="40" fill="#FFD700"/>
+  <text x="200" y="121" font-family="Arial Black,Arial" font-weight="900" font-size="22" fill="#E31E24" text-anchor="middle" letter-spacing="1">BUTTER</text>
+
+  <!-- Product image area (butter block illustration) -->
+  <rect x="80" y="145" width="240" height="160" fill="#FFFDE0" rx="6" stroke="#FFD700" stroke-width="2"/>
+  <rect x="100" y="165" width="200" height="120" fill="#F5E66B" rx="4"/>
+  <rect x="110" y="175" width="180" height="100" fill="#F0DC50" rx="3"/>
+  <text x="200" y="232" font-family="Arial Black,Arial" font-weight="800" font-size="16" fill="#C17F00" text-anchor="middle">BUTTER</text>
+  <text x="200" y="253" font-family="Arial,sans-serif" font-size="11" fill="#A06000" text-anchor="middle">Pasteurised</text>
+  <!-- Amul girl silhouette (simplified) -->
+  <circle cx="155" cy="200" r="18" fill="#E31E24" opacity="0.15"/>
+  <text x="155" y="205" font-family="Arial" font-size="22" text-anchor="middle">🧈</text>
+
+  <!-- Net Quantity box (top-right) -->
+  <rect x="275" y="145" width="112" height="50" fill="#E31E24" rx="4"/>
+  <text x="331" y="165" font-family="Arial,sans-serif" font-size="11" fill="white" text-anchor="middle" font-weight="bold">NET WEIGHT</text>
+  <text x="331" y="185" font-family="Arial Black,Arial" font-size="20" fill="white" text-anchor="middle" font-weight="900">500g</text>
+
+  <!-- Decorative stripe -->
+  <rect y="315" width="400" height="3" fill="#E31E24"/>
+  <rect y="318" width="400" height="2" fill="#FFD700"/>
+
+  <!-- Nutrition label area -->
+  <rect x="10" y="328" width="180" height="90" fill="#F5F5F5" rx="4" stroke="#DDD" stroke-width="1"/>
+  <text x="100" y="343" font-family="Arial,sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="bold">NUTRITION INFORMATION</text>
+  <line x1="10" y1="347" x2="190" y2="347" stroke="#CCC" stroke-width="0.5"/>
+  <text x="15" y="360" font-family="Arial,sans-serif" font-size="9" fill="#555">Energy: 717 kcal / 100g</text>
+  <text x="15" y="373" font-family="Arial,sans-serif" font-size="9" fill="#555">Total Fat: 81g | Protein: 0.6g</text>
+  <text x="15" y="386" font-family="Arial,sans-serif" font-size="9" fill="#555">Carbohydrate: 0.1g | Salt: 1.5g</text>
+  <text x="15" y="399" font-family="Arial,sans-serif" font-size="9" fill="#555">Cholesterol: 215mg / 100g</text>
+  <text x="15" y="412" font-family="Arial,sans-serif" font-size="9" fill="#888">*% Daily values based on 2000 kcal</text>
+
+  <!-- Barcode area -->
+  <rect x="205" y="328" width="120" height="70" fill="white" rx="4" stroke="#DDD" stroke-width="1"/>
+  <text x="265" y="344" font-family="Arial,sans-serif" font-size="8" fill="#555" text-anchor="middle">BARCODE</text>
+  <!-- Barcode lines simulation -->
+  <g transform="translate(215,350)">
+    <rect x="0" y="0" width="2" height="35" fill="#111"/>
+    <rect x="4" y="0" width="1" height="35" fill="#111"/>
+    <rect x="7" y="0" width="3" height="35" fill="#111"/>
+    <rect x="12" y="0" width="1" height="35" fill="#111"/>
+    <rect x="15" y="0" width="2" height="35" fill="#111"/>
+    <rect x="19" y="0" width="1" height="35" fill="#111"/>
+    <rect x="22" y="0" width="3" height="35" fill="#111"/>
+    <rect x="27" y="0" width="1" height="35" fill="#111"/>
+    <rect x="30" y="0" width="2" height="35" fill="#111"/>
+    <rect x="34" y="0" width="3" height="35" fill="#111"/>
+    <rect x="39" y="0" width="1" height="35" fill="#111"/>
+    <rect x="42" y="0" width="2" height="35" fill="#111"/>
+    <rect x="46" y="0" width="1" height="35" fill="#111"/>
+    <rect x="49" y="0" width="3" height="35" fill="#111"/>
+    <rect x="54" y="0" width="2" height="35" fill="#111"/>
+    <rect x="58" y="0" width="1" height="35" fill="#111"/>
+    <rect x="61" y="0" width="2" height="35" fill="#111"/>
+    <rect x="65" y="0" width="3" height="35" fill="#111"/>
+    <rect x="70" y="0" width="1" height="35" fill="#111"/>
+    <rect x="73" y="0" width="2" height="35" fill="#111"/>
+    <rect x="77" y="0" width="1" height="35" fill="#111"/>
+    <rect x="80" y="0" width="3" height="35" fill="#111"/>
+    <rect x="85" y="0" width="2" height="35" fill="#111"/>
+    <rect x="89" y="0" width="1" height="35" fill="#111"/>
+    <rect x="92" y="0" width="2" height="35" fill="#111"/>
+  </g>
+  <text x="265" y="395" font-family="Arial,sans-serif" font-size="8" fill="#333" text-anchor="middle">8901063051014</text>
+
+  <!-- Font size indicator strip -->
+  <rect x="10" y="406" width="380" height="22" fill="#FFFBEA" stroke="#FFD700" stroke-width="0.5"/>
+  <text x="15" y="421" font-family="Arial,sans-serif" font-size="9" fill="#666">Font size: 4.2mm (A4-calibrated) ✓ Compliant per LMPC Schedule II</text>
+
+  <!-- MRP section -->
+  <rect x="10" y="435" width="185" height="52" fill="#E31E24" rx="4"/>
+  <text x="102" y="453" font-family="Arial,sans-serif" font-size="10" fill="white" text-anchor="middle">MRP (Incl. of all taxes)</text>
+  <text x="102" y="474" font-family="Arial Black,Arial" font-size="22" fill="white" text-anchor="middle" font-weight="900">₹ 58.00</text>
+
+  <!-- Unit sale price -->
+  <rect x="205" y="435" width="185" height="52" fill="#FFF3CD" rx="4" stroke="#FFD700" stroke-width="1"/>
+  <text x="297" y="453" font-family="Arial,sans-serif" font-size="9" fill="#856404" text-anchor="middle">Unit Sale Price</text>
+  <text x="297" y="470" font-family="Arial Black,Arial" font-size="16" fill="#856404" text-anchor="middle" font-weight="900">₹ 11.60 / 100g</text>
+
+  <!-- Mfg / Expiry -->
+  <rect x="10" y="495" width="380" height="28" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="0.5"/>
+  <text x="200" y="509" font-family="Arial,sans-serif" font-size="9.5" fill="#333" text-anchor="middle">Mfg: OCT 2025 &amp; Best Before: FEB 2026 &amp; Batch: AB2510</text>
+
+  <!-- Consumer care -->
+  <rect x="10" y="526" width="380" height="26" fill="#E8F4FD" stroke="#BEE0F5" stroke-width="0.5"/>
+  <text x="200" y="537" font-family="Arial,sans-serif" font-size="8" fill="#0056b3" text-anchor="middle" font-weight="bold">CONSUMER CARE:</text>
+  <text x="200" y="548" font-family="Arial,sans-serif" font-size="8.5" fill="#0056b3" text-anchor="middle">1800-258-3333 | consumer@amul.coop</text>
+
+  <!-- Manufacturer -->
+  <rect x="10" y="8" width="380" height="0"/> <!-- placeholder kept for bounding box mapping -->
+  <text x="200" y="0" font-family="Arial,sans-serif" font-size="8" fill="white" text-anchor="middle" opacity="0">Kaira District Co-operative Milk Producers Union Ltd, Anand-388001, Gujarat</text>
+</svg>

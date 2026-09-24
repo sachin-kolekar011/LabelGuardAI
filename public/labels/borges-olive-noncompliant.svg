@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#F0F7EE" rx="8"/>
+  <!-- Green premium header -->
+  <rect width="400" height="100" fill="#2D5016" rx="8"/>
+  <rect y="92" width="400" height="8" fill="#2D5016"/>
+  <!-- Gold accent lines -->
+  <line x1="20" y1="20" x2="380" y2="20" stroke="#D4AF37" stroke-width="1" opacity="0.6"/>
+  <line x1="20" y1="88" x2="380" y2="88" stroke="#D4AF37" stroke-width="1" opacity="0.6"/>
+  <text x="200" y="52" font-family="Georgia,serif" font-size="28" fill="#D4AF37" text-anchor="middle" letter-spacing="4">BORGES</text>
+  <text x="200" y="74" font-family="Georgia,serif" font-size="11" fill="#A8CC8C" text-anchor="middle" letter-spacing="5">MEDITERRANEAN SLU, REUS, SPAIN</text>
+
+  <!-- Olive branch decoration -->
+  <ellipse cx="60" cy="55" rx="25" ry="10" fill="#4A7C29" opacity="0.5"/>
+  <ellipse cx="340" cy="55" rx="25" ry="10" fill="#4A7C29" opacity="0.5"/>
+
+  <!-- Product name band -->
+  <rect y="100" width="400" height="42" fill="#D4AF37"/>
+  <text x="200" y="126" font-family="Georgia,serif" font-size="22" fill="#2D5016" text-anchor="middle" font-weight="bold">Extra Virgin Olive Oil</text>
+
+  <!-- Sub -->
+  <rect y="142" width="400" height="22" fill="#E8F0E0"/>
+  <text x="200" y="157" font-family="Arial,sans-serif" font-size="10" fill="#2D5016" text-anchor="middle" letter-spacing="2">COLD PRESSED · FIRST PRESSING · 0.2° ACIDITY</text>
+
+  <!-- Bottle illustration area -->
+  <rect x="50" y="172" width="300" height="115" fill="rgba(45,80,22,0.06)" rx="6" stroke="#A8CC8C" stroke-width="1"/>
+  <!-- Bottle shape -->
+  <rect x="160" y="178" width="80" height="100" fill="#8BC34A" rx="4" opacity="0.7"/>
+  <rect x="172" y="170" width="56" height="16" fill="#5D8A1C" rx="3" opacity="0.8"/>
+  <text x="200" y="215" font-family="Georgia,serif" font-size="11" fill="#1A3D09" text-anchor="middle" font-weight="bold">BORGES</text>
+  <text x="200" y="230" font-family="Arial,sans-serif" font-size="8" fill="#2D5016" text-anchor="middle">Extra Virgin</text>
+  <text x="200" y="244" font-family="Arial,sans-serif" font-size="8" fill="#2D5016" text-anchor="middle">Olive Oil</text>
+  <!-- Olive illustrations -->
+  <ellipse cx="95" cy="220" rx="12" ry="16" fill="#6B8E3C"/>
+  <ellipse cx="305" cy="220" rx="12" ry="16" fill="#6B8E3C"/>
+
+  <!-- 500ml badge -->
+  <rect x="308" y="172" width="82" height="46" fill="#2D5016" rx="4"/>
+  <text x="349" y="191" font-family="Arial,sans-serif" font-size="9" fill="#D4AF37" text-anchor="middle">NET VOL.</text>
+  <text x="349" y="210" font-family="Arial Black,Arial" font-size="20" fill="white" text-anchor="middle">500ml</text>
+
+  <!-- Font size OK -->
+  <rect x="10" y="294" width="380" height="18" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.5"/>
+  <text x="15" y="307" font-family="Arial,sans-serif" font-size="8" fill="#2E7D32">✓ Font size: 3.6mm (A4-calibrated) — Compliant for 500ml package (≥2mm required)</text>
+
+  <!-- VIOLATION: Consumer care missing -->
+  <rect x="10" y="318" width="380" height="22" fill="#FFEBEE" stroke="#FFCDD2" stroke-width="1"/>
+  <text x="15" y="333" font-family="Arial,sans-serif" font-size="8.5" fill="#B71C1C">✗ Consumer Care Contact: NOT FOUND — Indian importer grievance contact missing (LMPC Rule 6(1)(f) 2022)</text>
+
+  <!-- VIOLATION: Country of Origin missing -->
+  <rect x="10" y="342" width="380" height="22" fill="#FFEBEE" stroke="#FFCDD2" stroke-width="1"/>
+  <text x="15" y="357" font-family="Arial,sans-serif" font-size="8.5" fill="#B71C1C">✗ Country of Origin: NOT DECLARED on Indian regulatory sticker overlay (LMPC Rule 6(1)(g))</text>
+
+  <!-- Nutrition -->
+  <rect x="10" y="370" width="185" height="58" fill="#F9FBF7" rx="3" stroke="#C8E6C9" stroke-width="0.5"/>
+  <text x="102" y="383" font-family="Arial,sans-serif" font-size="9" fill="#333" text-anchor="middle" font-weight="bold">NUTRITION / 15ml</text>
+  <text x="15" y="395" font-family="Arial,sans-serif" font-size="8" fill="#555">Energy: 120 kcal</text>
+  <text x="15" y="406" font-family="Arial,sans-serif" font-size="8" fill="#555">Total Fat: 14g (Sat: 2g)</text>
+  <text x="15" y="417" font-family="Arial,sans-serif" font-size="8" fill="#555">Monounsaturated Fat: 10g</text>
+  <text x="15" y="427" font-family="Arial,sans-serif" font-size="8" fill="#555">Cholesterol: 0mg | Sodium: 0mg</text>
+
+  <!-- Barcode -->
+  <rect x="205" y="370" width="185" height="58" fill="white" rx="3" stroke="#E0E0E0" stroke-width="0.5"/>
+  <g transform="translate(213,378)">
+    <rect x="0" y="0" width="2" height="35" fill="#111"/><rect x="4" y="0" width="1" height="35" fill="#111"/>
+    <rect x="7" y="0" width="3" height="35" fill="#111"/><rect x="12" y="0" width="1" height="35" fill="#111"/>
+    <rect x="15" y="0" width="2" height="35" fill="#111"/><rect x="19" y="0" width="1" height="35" fill="#111"/>
+    <rect x="22" y="0" width="3" height="35" fill="#111"/><rect x="27" y="0" width="2" height="35" fill="#111"/>
+    <rect x="31" y="0" width="1" height="35" fill="#111"/><rect x="34" y="0" width="2" height="35" fill="#111"/>
+    <rect x="38" y="0" width="3" height="35" fill="#111"/><rect x="43" y="0" width="1" height="35" fill="#111"/>
+    <rect x="46" y="0" width="2" height="35" fill="#111"/><rect x="50" y="0" width="1" height="35" fill="#111"/>
+    <rect x="53" y="0" width="3" height="35" fill="#111"/><rect x="58" y="0" width="2" height="35" fill="#111"/>
+    <rect x="62" y="0" width="1" height="35" fill="#111"/><rect x="65" y="0" width="2" height="35" fill="#111"/>
+    <rect x="69" y="0" width="3" height="35" fill="#111"/><rect x="74" y="0" width="1" height="35" fill="#111"/>
+    <rect x="77" y="0" width="2" height="35" fill="#111"/><rect x="81" y="0" width="3" height="35" fill="#111"/>
+    <rect x="86" y="0" width="2" height="35" fill="#111"/><rect x="90" y="0" width="1" height="35" fill="#111"/>
+    <rect x="93" y="0" width="2" height="35" fill="#111"/><rect x="97" y="0" width="3" height="35" fill="#111"/>
+    <rect x="102" y="0" width="1" height="35" fill="#111"/><rect x="105" y="0" width="2" height="35" fill="#111"/>
+    <rect x="109" y="0" width="1" height="35" fill="#111"/><rect x="112" y="0" width="3" height="35" fill="#111"/>
+    <rect x="117" y="0" width="2" height="35" fill="#111"/><rect x="121" y="0" width="1" height="35" fill="#111"/>
+    <rect x="124" y="0" width="2" height="35" fill="#111"/><rect x="128" y="0" width="1" height="35" fill="#111"/>
+    <rect x="131" y="0" width="3" height="35" fill="#111"/><rect x="136" y="0" width="2" height="35" fill="#111"/>
+    <rect x="140" y="0" width="1" height="35" fill="#111"/><rect x="143" y="0" width="2" height="35" fill="#111"/>
+    <rect x="147" y="0" width="3" height="35" fill="#111"/><rect x="152" y="0" width="1" height="35" fill="#111"/>
+    <rect x="155" y="0" width="2" height="35" fill="#111"/><rect x="159" y="0" width="1" height="35" fill="#111"/>
+    <rect x="162" y="0" width="3" height="35" fill="#111"/>
+  </g>
+  <text x="297" y="418" font-family="Arial,sans-serif" font-size="8" fill="#333" text-anchor="middle">8411320009992</text>
+
+  <!-- MRP + Unit Sale Price -->
+  <rect x="10" y="435" width="185" height="50" fill="#2D5016" rx="4"/>
+  <text x="102" y="453" font-family="Arial,sans-serif" font-size="9.5" fill="#D4AF37" text-anchor="middle">MRP (Incl. of all taxes)</text>
+  <text x="102" y="473" font-family="Arial Black,Arial" font-size="24" fill="white" text-anchor="middle">₹ 380.00</text>
+  <rect x="205" y="435" width="185" height="50" fill="#E8F0E0" rx="4" stroke="#A8CC8C" stroke-width="1"/>
+  <text x="297" y="453" font-family="Arial,sans-serif" font-size="9" fill="#2D5016" text-anchor="middle">Unit Sale Price</text>
+  <text x="297" y="470" font-family="Arial Black,Arial" font-size="17" fill="#2D5016" text-anchor="middle">₹ 76.00 / 100ml</text>
+
+  <!-- Mfg / Best Before -->
+  <rect x="10" y="492" width="380" height="24" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="200" y="508" font-family="Arial,sans-serif" font-size="9" fill="#444" text-anchor="middle">Best Before: DEC 2026 | Lot: BOO-2506 | Imported by: K. Importers Pvt. Ltd., Mumbai-400001</text>
+
+  <!-- Consumer care MISSING — highlighted red -->
+  <rect x="10" y="520" width="380" height="28" fill="#FFEBEE" stroke="#FFCDD2" stroke-width="1"/>
+  <text x="200" y="532" font-family="Arial,sans-serif" font-size="9" fill="#C62828" text-anchor="middle" font-weight="bold">⚠ CONSUMER CARE CONTACT: NOT DECLARED ⚠</text>
+  <text x="200" y="544" font-family="Arial,sans-serif" font-size="8" fill="#E57373" text-anchor="middle">Required: Indian importer grievance email/phone (LMPC Rule 6(1)(f) 2022)</text>
+</svg>

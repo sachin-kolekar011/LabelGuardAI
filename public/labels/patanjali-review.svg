@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <!-- Background -->
+  <rect width="400" height="560" fill="#FFFDF5" rx="8"/>
+
+  <!-- Saffron header -->
+  <rect width="400" height="75" fill="#FF6B00" rx="8"/>
+  <rect y="65" width="400" height="10" fill="#FF6B00"/>
+  <!-- Sanskrit motif decoration -->
+  <text x="18" y="48" font-family="serif" font-size="28" fill="rgba(255,255,255,0.2)">ॐ</text>
+  <text x="360" y="48" font-family="serif" font-size="28" fill="rgba(255,255,255,0.2)">ॐ</text>
+  <text x="200" y="40" font-family="Arial Black,Arial" font-size="24" fill="white" text-anchor="middle" letter-spacing="2">PATANJALI</text>
+  <text x="200" y="60" font-family="Arial,sans-serif" font-size="11" fill="#FFE0B2" text-anchor="middle" letter-spacing="3">AYURVED LTD.</text>
+
+  <!-- Green band -->
+  <rect y="75" width="400" height="40" fill="#2E7D32"/>
+  <text x="200" y="99" font-family="Arial Black,Arial" font-size="19" fill="white" text-anchor="middle" letter-spacing="1">DANT KANTI</text>
+
+  <!-- Sub label -->
+  <rect y="115" width="400" height="24" fill="#F1F8E9"/>
+  <text x="200" y="131" font-family="Arial,sans-serif" font-size="11" fill="#388E3C" text-anchor="middle">Natural Toothpaste | Advanced Formula</text>
+
+  <!-- Product image area (tube) -->
+  <rect x="30" y="148" width="340" height="145" fill="#E8F5E9" rx="6" stroke="#A5D6A7" stroke-width="1.5"/>
+  <!-- Tube shape -->
+  <rect x="130" y="160" width="140" height="120" fill="#FF6B00" rx="8"/>
+  <rect x="130" y="160" width="140" height="35" fill="#2E7D32" rx="8"/>
+  <text x="200" y="182" font-family="Arial Black,Arial" font-size="12" fill="white" text-anchor="middle">PATANJALI</text>
+  <text x="200" y="196" font-family="Arial,sans-serif" font-size="9" fill="#FFE0B2" text-anchor="middle">DANT KANTI</text>
+  <!-- Leaf decorations -->
+  <ellipse cx="155" cy="222" rx="18" ry="10" fill="#4CAF50" opacity="0.6" transform="rotate(-30 155 222)"/>
+  <ellipse cx="245" cy="222" rx="18" ry="10" fill="#4CAF50" opacity="0.6" transform="rotate(30 245 222)"/>
+  <text x="200" y="240" font-family="Arial,sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">200g</text>
+  <!-- Cap -->
+  <rect x="170" y="155" width="60" height="14" fill="#1B5E20" rx="3"/>
+
+  <!-- Net Quantity -->
+  <rect x="300" y="148" width="95" height="48" fill="#2E7D32" rx="4"/>
+  <text x="347" y="167" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle">NET WT.</text>
+  <text x="347" y="186" font-family="Arial Black,Arial" font-size="20" fill="white" text-anchor="middle">200g</text>
+
+  <!-- REVIEW flag: Quantity low confidence -->
+  <rect x="10" y="300" width="380" height="22" fill="#FFF8E1" stroke="#FFB300" stroke-width="1"/>
+  <text x="15" y="315" font-family="Arial,sans-serif" font-size="8.5" fill="#F57F17">⚠ Net Quantity: ~200g detected (LOW CONFIDENCE) — glare on lower panel. Manual verification needed.</text>
+
+  <!-- Font size review -->
+  <rect x="10" y="322" width="380" height="20" fill="#EDE7F6" stroke="#7E57C2" stroke-width="0.5"/>
+  <text x="15" y="336" font-family="Arial,sans-serif" font-size="8" fill="#4527A0">⚠ Font size: Est. 1.9–2.4mm (no A4 ref) — relative ratio only. Flag: Needs manual verification.</text>
+
+  <!-- Mfg date REVIEW -->
+  <rect x="10" y="342" width="380" height="20" fill="#FCE4EC" stroke="#F48FB1" stroke-width="0.5"/>
+  <text x="15" y="356" font-family="Arial,sans-serif" font-size="8" fill="#880E4F">⚠ Mfg Date: "? 2025" — month partially obscured. Year detected but month unclear. Needs review.</text>
+
+  <!-- Nutrition -->
+  <rect x="10" y="368" width="195" height="60" fill="#F5F5F5" rx="3" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="107" y="381" font-family="Arial,sans-serif" font-size="8.5" fill="#333" text-anchor="middle" font-weight="bold">INGREDIENTS</text>
+  <text x="15" y="393" font-family="Arial,sans-serif" font-size="7.5" fill="#555">Calcium Carbonate, Sorbitol, Glycerin,</text>
+  <text x="15" y="404" font-family="Arial,sans-serif" font-size="7.5" fill="#555">Neem, Clove, Camphor, Mint Extract,</text>
+  <text x="15" y="415" font-family="Arial,sans-serif" font-size="7.5" fill="#555">Babool, Tomar, Carrageenan</text>
+  <text x="15" y="425" font-family="Arial,sans-serif" font-size="7" fill="#888">Free from: Fluoride | Triclosan | SLS</text>
+
+  <!-- No barcode — FAIL -->
+  <rect x="215" y="368" width="175" height="60" fill="#FFEBEE" rx="3" stroke="#FFCDD2" stroke-width="1"/>
+  <text x="302" y="385" font-family="Arial,sans-serif" font-size="9" fill="#B71C1C" text-anchor="middle" font-weight="bold">BARCODE</text>
+  <text x="302" y="400" font-family="Arial,sans-serif" font-size="20" fill="#EF9A9A" text-anchor="middle">✗</text>
+  <text x="302" y="418" font-family="Arial,sans-serif" font-size="8" fill="#C62828" text-anchor="middle">Not found on label</text>
+
+  <!-- MRP -->
+  <rect x="10" y="435" width="185" height="50" fill="#FF6B00" rx="4"/>
+  <text x="102" y="453" font-family="Arial,sans-serif" font-size="9.5" fill="white" text-anchor="middle">MRP (Incl. of all taxes)</text>
+  <text x="102" y="473" font-family="Arial Black,Arial" font-size="22" fill="white" text-anchor="middle">₹ 45.00</text>
+  <rect x="205" y="435" width="185" height="50" fill="#FFF3E0" rx="4" stroke="#FFB74D" stroke-width="1"/>
+  <text x="297" y="453" font-family="Arial,sans-serif" font-size="9" fill="#E65100" text-anchor="middle">Unit Sale Price</text>
+  <text x="297" y="470" font-family="Arial Black,Arial" font-size="17" fill="#E65100" text-anchor="middle">₹ 22.50 / 100g</text>
+
+  <!-- Mfg date (partially obscured shown) -->
+  <rect x="10" y="492" width="380" height="25" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="15" y="508" font-family="Arial,sans-serif" font-size="9" fill="#444">Mfg: ██ 2025 | Best Before: ██ 2026 | Batch: PDK-B1</text>
+  <text x="370" y="508" font-family="Arial,sans-serif" font-size="9" fill="#999" text-anchor="end">[obscured]</text>
+
+  <!-- Consumer care -->
+  <rect x="10" y="520" width="380" height="28" fill="#E8F5E9" stroke="#C8E6C9" stroke-width="0.5"/>
+  <text x="200" y="532" font-family="Arial,sans-serif" font-size="8" fill="#1B5E20" text-anchor="middle" font-weight="bold">Consumer Care: 1800-180-8080</text>
+  <text x="200" y="544" font-family="Arial,sans-serif" font-size="7.5" fill="#555" text-anchor="middle">Patanjali Ayurved Ltd., Haridwar-249401, Uttarakhand, India</text>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#FFFDE7" rx="8"/>
+  <!-- Amber header -->
+  <rect width="400" height="82" fill="#E65100" rx="8"/>
+  <rect y="74" width="400" height="8" fill="#E65100"/>
+  <text x="200" y="40" font-family="Arial Black,Arial" font-size="30" fill="white" text-anchor="middle" letter-spacing="4">DABUR</text>
+  <text x="200" y="63" font-family="Arial,sans-serif" font-size="12" fill="#FFCC80" text-anchor="middle" letter-spacing="4">INDIA LIMITED</text>
+
+  <!-- Honey gold band -->
+  <rect y="82" width="400" height="40" fill="#FF8F00"/>
+  <text x="200" y="107" font-family="Arial Black,Arial" font-size="22" fill="white" text-anchor="middle" letter-spacing="1">HONEY</text>
+
+  <!-- Sub text -->
+  <rect y="122" width="400" height="20" fill="#FFF8E1"/>
+  <text x="200" y="136" font-family="Arial,sans-serif" font-size="10" fill="#E65100" text-anchor="middle" letter-spacing="2">100% PURE · NATURAL · UNPROCESSED</text>
+
+  <!-- Honey jar illustration -->
+  <rect x="60" y="148" width="280" height="140" fill="#FFF9C4" rx="6" stroke="#FFD54F" stroke-width="1.5"/>
+  <!-- Jar body -->
+  <rect x="130" y="158" width="140" height="110" fill="#FFC107" rx="6"/>
+  <rect x="138" y="158" width="124" height="100" fill="#FFD740" rx="4"/>
+  <!-- Jar lid -->
+  <rect x="128" y="150" width="144" height="16" fill="#FF6F00" rx="3"/>
+  <!-- Honey drip -->
+  <path d="M180,158 Q182,170 180,182 Q178,190 182,198" stroke="#FF8F00" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M220,158 Q218,172 220,186 Q222,194 218,200" stroke="#FF8F00" stroke-width="3" fill="none" opacity="0.6"/>
+  <!-- Text on jar -->
+  <text x="200" y="200" font-family="Arial Black,Arial" font-size="13" fill="#4E342E" text-anchor="middle">DABUR</text>
+  <text x="200" y="218" font-family="Arial,sans-serif" font-size="10" fill="#5D4037" text-anchor="middle">Pure Honey</text>
+  <!-- Honeycomb -->
+  <text x="110" y="218" font-family="Arial" font-size="20" text-anchor="middle" opacity="0.4">🍯</text>
+  <text x="290" y="218" font-family="Arial" font-size="20" text-anchor="middle" opacity="0.4">🐝</text>
+
+  <!-- Net qty badge -->
+  <rect x="310" y="148" width="85" height="48" fill="#E65100" rx="4"/>
+  <text x="352" y="167" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle">NET WT.</text>
+  <text x="352" y="187" font-family="Arial Black,Arial" font-size="21" fill="white" text-anchor="middle">500g</text>
+
+  <!-- Font OK strip -->
+  <rect x="10" y="295" width="380" height="19" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.5"/>
+  <text x="15" y="308" font-family="Arial,sans-serif" font-size="8.5" fill="#2E7D32">✓ Font size: 4.5mm (A4-calibrated) — Compliant, above 4mm minimum for 500g package</text>
+
+  <!-- Nutrition -->
+  <rect x="10" y="320" width="195" height="62" fill="#FFF9C4" rx="3" stroke="#FFD54F" stroke-width="0.5"/>
+  <text x="107" y="333" font-family="Arial,sans-serif" font-size="9" fill="#4E342E" text-anchor="middle" font-weight="bold">NUTRITION / 100g</text>
+  <line x1="10" y1="337" x2="205" y2="337" stroke="#FFD54F" stroke-width="0.5"/>
+  <text x="15" y="349" font-family="Arial,sans-serif" font-size="8" fill="#555">Energy: 304 kcal</text>
+  <text x="15" y="360" font-family="Arial,sans-serif" font-size="8" fill="#555">Carbohydrates: 74.4g | Sugar: 72g</text>
+  <text x="15" y="371" font-family="Arial,sans-serif" font-size="8" fill="#555">Protein: 0.3g | Fat: 0g</text>
+  <text x="15" y="382" font-family="Arial,sans-serif" font-size="8" fill="#888">No added sugar, preservatives or colour</text>
+
+  <!-- Barcode -->
+  <rect x="215" y="320" width="175" height="62" fill="white" rx="3" stroke="#FFD54F" stroke-width="0.5"/>
+  <g transform="translate(222,328)">
+    <rect x="0" y="0" width="2" height="38" fill="#111"/><rect x="4" y="0" width="1" height="38" fill="#111"/>
+    <rect x="7" y="0" width="3" height="38" fill="#111"/><rect x="12" y="0" width="1" height="38" fill="#111"/>
+    <rect x="15" y="0" width="2" height="38" fill="#111"/><rect x="19" y="0" width="1" height="38" fill="#111"/>
+    <rect x="22" y="0" width="3" height="38" fill="#111"/><rect x="27" y="0" width="2" height="38" fill="#111"/>
+    <rect x="31" y="0" width="1" height="38" fill="#111"/><rect x="34" y="0" width="2" height="38" fill="#111"/>
+    <rect x="38" y="0" width="3" height="38" fill="#111"/><rect x="43" y="0" width="1" height="38" fill="#111"/>
+    <rect x="46" y="0" width="2" height="38" fill="#111"/><rect x="50" y="0" width="1" height="38" fill="#111"/>
+    <rect x="53" y="0" width="3" height="38" fill="#111"/><rect x="58" y="0" width="2" height="38" fill="#111"/>
+    <rect x="62" y="0" width="1" height="38" fill="#111"/><rect x="65" y="0" width="2" height="38" fill="#111"/>
+    <rect x="69" y="0" width="3" height="38" fill="#111"/><rect x="74" y="0" width="1" height="38" fill="#111"/>
+    <rect x="77" y="0" width="2" height="38" fill="#111"/><rect x="81" y="0" width="3" height="38" fill="#111"/>
+    <rect x="86" y="0" width="2" height="38" fill="#111"/><rect x="90" y="0" width="1" height="38" fill="#111"/>
+    <rect x="93" y="0" width="2" height="38" fill="#111"/><rect x="97" y="0" width="3" height="38" fill="#111"/>
+    <rect x="102" y="0" width="1" height="38" fill="#111"/><rect x="105" y="0" width="2" height="38" fill="#111"/>
+    <rect x="109" y="0" width="3" height="38" fill="#111"/><rect x="114" y="0" width="1" height="38" fill="#111"/>
+    <rect x="117" y="0" width="2" height="38" fill="#111"/><rect x="121" y="0" width="1" height="38" fill="#111"/>
+    <rect x="124" y="0" width="3" height="38" fill="#111"/><rect x="129" y="0" width="2" height="38" fill="#111"/>
+    <rect x="133" y="0" width="1" height="38" fill="#111"/><rect x="136" y="0" width="2" height="38" fill="#111"/>
+    <rect x="140" y="0" width="3" height="38" fill="#111"/><rect x="145" y="0" width="1" height="38" fill="#111"/>
+    <rect x="148" y="0" width="2" height="38" fill="#111"/><rect x="152" y="0" width="1" height="38" fill="#111"/>
+    <rect x="155" y="0" width="3" height="38" fill="#111"/><rect x="160" y="0" width="2" height="38" fill="#111"/>
+    <rect x="164" y="0" width="1" height="38" fill="#111"/>
+  </g>
+  <text x="302" y="372" font-family="Arial,sans-serif" font-size="8" fill="#333" text-anchor="middle">8901207000178</text>
+
+  <!-- MRP -->
+  <rect x="10" y="389" width="185" height="50" fill="#E65100" rx="4"/>
+  <text x="102" y="407" font-family="Arial,sans-serif" font-size="9.5" fill="#FFCC80" text-anchor="middle">MRP (Incl. of all taxes)</text>
+  <text x="102" y="427" font-family="Arial Black,Arial" font-size="24" fill="white" text-anchor="middle">₹ 235.00</text>
+  <rect x="205" y="389" width="185" height="50" fill="#FFF9C4" rx="4" stroke="#FFD54F" stroke-width="1"/>
+  <text x="297" y="407" font-family="Arial,sans-serif" font-size="9" fill="#E65100" text-anchor="middle">Unit Sale Price</text>
+  <text x="297" y="424" font-family="Arial Black,Arial" font-size="17" fill="#E65100" text-anchor="middle">₹ 47.00 / 100g</text>
+
+  <!-- Manufacturer -->
+  <rect x="10" y="446" width="380" height="28" fill="#FFF3E0" stroke="#FFD54F" stroke-width="0.5"/>
+  <text x="200" y="458" font-family="Arial,sans-serif" font-size="8" fill="#4E342E" text-anchor="middle" font-weight="bold">Mfd. by: Dabur India Ltd., 8/3 Asaf Ali Rd., New Delhi-110002</text>
+  <text x="200" y="470" font-family="Arial,sans-serif" font-size="7.5" fill="#777" text-anchor="middle">FSSAI Lic No: 10013022000015 | Quality certified ISO 9001:2015</text>
+
+  <!-- Mfg date -->
+  <rect x="10" y="481" width="380" height="24" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="200" y="497" font-family="Arial,sans-serif" font-size="9" fill="#444" text-anchor="middle">Mfg: NOV 2025 | Best Before: NOV 2027 | Lot: DBH2511A</text>
+
+  <!-- Consumer care -->
+  <rect x="10" y="508" width="380" height="28" fill="#FFF3E0" stroke="#FFCC80" stroke-width="0.5"/>
+  <text x="200" y="520" font-family="Arial,sans-serif" font-size="8" fill="#E65100" text-anchor="middle" font-weight="bold">Consumer Care: 1800-103-0000 | consumer@dabur.com</text>
+  <text x="200" y="532" font-family="Arial,sans-serif" font-size="7.5" fill="#777" text-anchor="middle">Dabur Consumer Care, Post Box 10, Ghaziabad-201010, UP</text>
+</svg>

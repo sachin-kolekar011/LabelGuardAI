@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#E3F2FD" rx="8"/>
+  <!-- Blue header -->
+  <rect width="400" height="85" fill="#0D47A1" rx="8"/>
+  <rect y="78" width="400" height="7" fill="#0D47A1"/>
+  <!-- Silver accent -->
+  <line x1="15" y1="18" x2="385" y2="18" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <line x1="15" y1="80" x2="385" y2="80" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <text x="200" y="48" font-family="Arial Black,Arial" font-size="36" fill="white" text-anchor="middle" letter-spacing="4">TATA</text>
+  <text x="200" y="72" font-family="Arial,sans-serif" font-size="13" fill="#90CAF9" text-anchor="middle" letter-spacing="5">CONSUMER PRODUCTS</text>
+
+  <!-- Product band -->
+  <rect y="85" width="400" height="38" fill="#1565C0"/>
+  <text x="200" y="109" font-family="Arial Black,Arial" font-size="22" fill="white" text-anchor="middle" letter-spacing="2">IODISED SALT</text>
+
+  <!-- Tagline -->
+  <rect y="123" width="400" height="22" fill="#E3F2FD"/>
+  <text x="200" y="138" font-family="Arial,sans-serif" font-size="10" fill="#0D47A1" text-anchor="middle" letter-spacing="2">VACUUM EVAPORATED · NATURALLY REFINED</text>
+
+  <!-- Salt pack illustration -->
+  <rect x="50" y="152" width="300" height="130" fill="white" rx="6" stroke="#90CAF9" stroke-width="1.5"/>
+  <rect x="60" y="160" width="280" height="112" fill="#E3F2FD" rx="4"/>
+  <!-- Tata salt logo area -->
+  <circle cx="200" cy="215" r="42" fill="#0D47A1"/>
+  <text x="200" y="208" font-family="Arial Black,Arial" font-size="18" fill="white" text-anchor="middle">TATA</text>
+  <text x="200" y="226" font-family="Arial,sans-serif" font-size="10" fill="#90CAF9" text-anchor="middle">SALT</text>
+  <text x="200" y="242" font-family="Arial,sans-serif" font-size="8" fill="#BBDEFB" text-anchor="middle">Iodised</text>
+  <!-- Salt crystals -->
+  <rect x="75" y="218" rx="2" width="10" height="10" fill="white" opacity="0.7"/>
+  <rect x="95" y="225" rx="2" width="8" height="8" fill="white" opacity="0.6"/>
+  <rect x="305" y="215" rx="2" width="10" height="10" fill="white" opacity="0.7"/>
+  <rect x="320" y="228" rx="2" width="7" height="7" fill="white" opacity="0.6"/>
+
+  <!-- Net weight badge -->
+  <rect x="310" y="152" width="84" height="48" fill="#0D47A1" rx="4"/>
+  <text x="352" y="171" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle">NET WT.</text>
+  <text x="352" y="191" font-family="Arial Black,Arial" font-size="22" fill="white" text-anchor="middle">1 kg</text>
+
+  <!-- Font size OK strip -->
+  <rect x="10" y="290" width="380" height="20" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.5"/>
+  <text x="15" y="304" font-family="Arial,sans-serif" font-size="8.5" fill="#2E7D32">✓ Font size: 5.1mm (A4-calibrated) — Well above 4mm minimum for 1kg package</text>
+
+  <!-- Nutritional strip -->
+  <rect x="10" y="316" width="195" height="62" fill="#F5F5F5" rx="3" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="107" y="329" font-family="Arial,sans-serif" font-size="9" fill="#333" text-anchor="middle" font-weight="bold">NUTRITION / 100g</text>
+  <line x1="10" y1="333" x2="205" y2="333" stroke="#CCC" stroke-width="0.5"/>
+  <text x="15" y="344" font-family="Arial,sans-serif" font-size="8" fill="#555">Sodium: 38.7g | Chloride: 60.7g</text>
+  <text x="15" y="355" font-family="Arial,sans-serif" font-size="8" fill="#555">Iodine: 30ppm (min) as KIO₃</text>
+  <text x="15" y="366" font-family="Arial,sans-serif" font-size="8" fill="#555">Energy: 0 kcal | Fat: 0g</text>
+  <text x="15" y="377" font-family="Arial,sans-serif" font-size="8" fill="#888">Free from anti-caking agents</text>
+
+  <!-- Barcode -->
+  <rect x="215" y="316" width="175" height="62" fill="white" rx="3" stroke="#E0E0E0" stroke-width="0.5"/>
+  <g transform="translate(222,323)">
+    <rect x="0" y="0" width="2" height="38" fill="#111"/><rect x="4" y="0" width="1" height="38" fill="#111"/>
+    <rect x="7" y="0" width="3" height="38" fill="#111"/><rect x="12" y="0" width="1" height="38" fill="#111"/>
+    <rect x="15" y="0" width="2" height="38" fill="#111"/><rect x="19" y="0" width="1" height="38" fill="#111"/>
+    <rect x="22" y="0" width="3" height="38" fill="#111"/><rect x="27" y="0" width="2" height="38" fill="#111"/>
+    <rect x="31" y="0" width="1" height="38" fill="#111"/><rect x="34" y="0" width="2" height="38" fill="#111"/>
+    <rect x="38" y="0" width="3" height="38" fill="#111"/><rect x="43" y="0" width="1" height="38" fill="#111"/>
+    <rect x="46" y="0" width="2" height="38" fill="#111"/><rect x="50" y="0" width="1" height="38" fill="#111"/>
+    <rect x="53" y="0" width="3" height="38" fill="#111"/><rect x="58" y="0" width="2" height="38" fill="#111"/>
+    <rect x="62" y="0" width="1" height="38" fill="#111"/><rect x="65" y="0" width="2" height="38" fill="#111"/>
+    <rect x="69" y="0" width="3" height="38" fill="#111"/><rect x="74" y="0" width="1" height="38" fill="#111"/>
+    <rect x="77" y="0" width="2" height="38" fill="#111"/><rect x="81" y="0" width="3" height="38" fill="#111"/>
+    <rect x="86" y="0" width="2" height="38" fill="#111"/><rect x="90" y="0" width="1" height="38" fill="#111"/>
+    <rect x="93" y="0" width="2" height="38" fill="#111"/><rect x="97" y="0" width="3" height="38" fill="#111"/>
+    <rect x="102" y="0" width="1" height="38" fill="#111"/><rect x="105" y="0" width="2" height="38" fill="#111"/>
+    <rect x="109" y="0" width="3" height="38" fill="#111"/><rect x="114" y="0" width="1" height="38" fill="#111"/>
+    <rect x="117" y="0" width="2" height="38" fill="#111"/><rect x="121" y="0" width="1" height="38" fill="#111"/>
+    <rect x="124" y="0" width="3" height="38" fill="#111"/><rect x="129" y="0" width="2" height="38" fill="#111"/>
+    <rect x="133" y="0" width="1" height="38" fill="#111"/><rect x="136" y="0" width="2" height="38" fill="#111"/>
+    <rect x="140" y="0" width="1" height="38" fill="#111"/><rect x="143" y="0" width="3" height="38" fill="#111"/>
+    <rect x="148" y="0" width="2" height="38" fill="#111"/><rect x="152" y="0" width="1" height="38" fill="#111"/>
+    <rect x="155" y="0" width="2" height="38" fill="#111"/><rect x="159" y="0" width="3" height="38" fill="#111"/>
+    <rect x="164" y="0" width="1" height="38" fill="#111"/>
+  </g>
+  <text x="302" y="368" font-family="Arial,sans-serif" font-size="8" fill="#333" text-anchor="middle">8901718001118</text>
+
+  <!-- MRP -->
+  <rect x="10" y="385" width="185" height="50" fill="#0D47A1" rx="4"/>
+  <text x="102" y="403" font-family="Arial,sans-serif" font-size="9.5" fill="#90CAF9" text-anchor="middle">MRP (Incl. of all taxes)</text>
+  <text x="102" y="423" font-family="Arial Black,Arial" font-size="24" fill="white" text-anchor="middle">₹ 24.00</text>
+  <rect x="205" y="385" width="185" height="50" fill="#BBDEFB" rx="4" stroke="#90CAF9" stroke-width="1"/>
+  <text x="297" y="403" font-family="Arial,sans-serif" font-size="9" fill="#0D47A1" text-anchor="middle">Unit Sale Price</text>
+  <text x="297" y="420" font-family="Arial Black,Arial" font-size="17" fill="#0D47A1" text-anchor="middle">₹ 2.40 / 100g</text>
+
+  <!-- Manufacturer -->
+  <rect x="10" y="442" width="380" height="30" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="200" y="454" font-family="Arial,sans-serif" font-size="8" fill="#333" text-anchor="middle" font-weight="bold">Mfd. by: Tata Consumer Products Ltd.</text>
+  <text x="200" y="467" font-family="Arial,sans-serif" font-size="7.5" fill="#666" text-anchor="middle">Regd. Office: 1 Bishop Lefroy Rd, Kolkata-700020, WB. FSSAI: 10013022000281</text>
+
+  <!-- Mfg date -->
+  <rect x="10" y="479" width="380" height="24" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="200" y="495" font-family="Arial,sans-serif" font-size="9" fill="#444" text-anchor="middle">Mfg: OCT 2025 | Best Before: OCT 2027 | Batch: TTS-B1025</text>
+
+  <!-- Consumer care -->
+  <rect x="10" y="506" width="380" height="28" fill="#E3F2FD" stroke="#90CAF9" stroke-width="0.5"/>
+  <text x="200" y="518" font-family="Arial,sans-serif" font-size="8" fill="#0D47A1" text-anchor="middle" font-weight="bold">Consumer Care: 1800-209-6030</text>
+  <text x="200" y="530" font-family="Arial,sans-serif" font-size="7.5" fill="#1565C0" text-anchor="middle">consumer@tataconsumer.com | Mon–Fri 9am–6pm</text>
+
+  <!-- A4 badge -->
+  <rect x="335" y="287" width="60" height="22" fill="#1565C0" rx="11"/>
+  <text x="365" y="302" font-family="Arial,sans-serif" font-size="8.5" fill="white" text-anchor="middle" font-weight="bold">A4 ✓</text>
+</svg>
