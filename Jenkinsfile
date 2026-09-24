@@ -12,6 +12,12 @@ pipeline {
             }
         }
 
+        stage('CI Information') {
+            steps {
+                echo 'Build triggered automatically from GitHub'
+            }
+        }
+
         stage("Install Dependencies") {
             steps {
                 sh 'npm ci'
