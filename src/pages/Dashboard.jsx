@@ -64,7 +64,7 @@ export default function Dashboard() {
   const recent = [...scans].sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp)).slice(0, 6);
 
   return (
-    <Layout title="Dashboard with jenkins and automated the versions">
+    <Layout title="Dashboard With Om Prabhu">
       <div className="space-y-5 max-w-7xl">
         {/* Stat cards */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
